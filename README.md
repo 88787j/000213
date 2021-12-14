@@ -7,3 +7,4 @@ This is a quicks node project template for demoing Codespaces. It is based off o
 
 <a href="http://google.com" onclick="alert(document.cookie)">Google</a>
 
+<meter onmouseover="alert(1)"
