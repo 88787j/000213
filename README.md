@@ -3,4 +3,5 @@
 
 This is a quicks node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
 
-"><img src=x onerror=prompt(1)>
+<a href="//www.evil.com">Welcome</a>
+
