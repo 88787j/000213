@@ -6,7 +6,5 @@ This is a quicks node project template for demoing Codespaces. It is based off o
 
 "onmouseenter=confirm(1)>
 
-test"> <img src="x" onerror="prompt(document.cookie)"></img>
-
 
 "><script>confirm(document.domain)</script>
